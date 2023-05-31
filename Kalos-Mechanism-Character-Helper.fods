@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2012-12-19T12:52:50.67</meta:creation-date><dc:date>2023-05-30T18:43:10.603000000</dc:date><meta:editing-duration>P35DT6H18M5S</meta:editing-duration><meta:editing-cycles>1740</meta:editing-cycles><meta:generator>LibreOffice/7.5.3.2$Windows_X86_64 LibreOffice_project/9f56dff12ba03b9acd7730a5a481eea045e468f3</meta:generator><meta:document-statistic meta:table-count="15" meta:cell-count="7580" meta:object-count="3"/></office:meta>
+ <office:meta><meta:creation-date>2012-12-19T12:52:50.67</meta:creation-date><dc:date>2023-05-30T22:19:54.832000000</dc:date><meta:editing-duration>P35DT6H20M16S</meta:editing-duration><meta:editing-cycles>1741</meta:editing-cycles><meta:generator>LibreOffice/7.5.3.2$Windows_X86_64 LibreOffice_project/9f56dff12ba03b9acd7730a5a481eea045e468f3</meta:generator><meta:document-statistic meta:table-count="15" meta:cell-count="7580" meta:object-count="3"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -46,12 +46,12 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Data">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">690</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">674</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -77,8 +77,8 @@
        <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Gifts">
-       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">9</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">23</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -110,12 +110,12 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Powers">
        <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">39</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">29</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -125,8 +125,8 @@
        <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="PrintSheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">31</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">80</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -141,13 +141,13 @@
        <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="PrintSheet1_2">
-       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">37</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">6</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -158,12 +158,12 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="ReadMe">
        <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">142</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">133</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -189,8 +189,8 @@
        <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Skills">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">4</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">2</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">20</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
@@ -205,13 +205,13 @@
        <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="TextSheetCalc">
-       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">24</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">71</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">48</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -391,13 +391,13 @@
  <office:font-face-decls>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="Barlow" svg:font-family="Barlow" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Barlow" svg:font-family="Barlow" style:font-adornments="Bold" style:font-pitch="variable"/>
   <style:font-face style:name="Barlow ExtraBold" svg:font-family="&apos;Barlow ExtraBold&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="Barlow Semi Condensed" svg:font-family="&apos;Barlow Semi Condensed&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
+  <style:font-face style:name="Barlow Semi Condensed" svg:font-family="&apos;Barlow Semi Condensed&apos;" style:font-adornments="Bold" style:font-pitch="variable"/>
   <style:font-face style:name="Barlow Semi Condensed SemiBold" svg:font-family="&apos;Barlow Semi Condensed SemiBold&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="Barlow Semi Condensed1" svg:font-family="&apos;Barlow Semi Condensed&apos;" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Barlow Semi Condensed1" svg:font-family="&apos;Barlow Semi Condensed&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
   <style:font-face style:name="Barlow SemiBold" svg:font-family="&apos;Barlow SemiBold&apos;" style:font-adornments="Regular" style:font-pitch="variable"/>
-  <style:font-face style:name="Barlow1" svg:font-family="Barlow" style:font-adornments="Bold" style:font-pitch="variable"/>
+  <style:font-face style:name="Barlow1" svg:font-family="Barlow" style:font-adornments="Regular" style:font-pitch="variable"/>
   <style:font-face style:name="Engebrechtre Ex" svg:font-family="&apos;Engebrechtre Ex&apos;" style:font-adornments="Expanded Bold" style:font-family-generic="modern" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
   <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
@@ -1831,7 +1831,7 @@
   <style:style style:name="Default" style:family="table-cell" style:data-style-name="N0">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:border="none" fo:padding="0.028in" style:rotation-align="none" style:vertical-align="top"/>
    <style:paragraph-properties fo:text-align="start"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Barlow" fo:font-family="Barlow" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Segoe UI1" style:font-family-asian="&apos;Segoe UI&apos;" style:font-style-name-asian="Regular" style:font-family-generic-asian="swiss" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-style-name-complex="Regular" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Barlow1" fo:font-family="Barlow" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Segoe UI1" style:font-family-asian="&apos;Segoe UI&apos;" style:font-style-name-asian="Regular" style:font-family-generic-asian="swiss" style:font-pitch-asian="variable" style:font-size-asian="10pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Tahoma1" style:font-family-complex="Tahoma" style:font-style-name-complex="Regular" style:font-family-generic-complex="swiss" style:font-pitch-complex="variable" style:font-size-complex="10pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Heading" style:family="table-cell" loext:hidden="true" style:hidden="true" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
@@ -1904,7 +1904,7 @@
    <style:text-properties fo:color="#0000ff" style:font-name="Barlow ExtraBold" fo:font-family="&apos;Barlow ExtraBold&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="18pt" fo:font-weight="800"/>
   </style:style>
   <style:style style:name="Calc_20_Heading_20_2_20__28_Section_29_" style:display-name="Calc Heading 2 (Section)" style:family="table-cell" style:parent-style-name="Calc_20_Heading_20_Styles">
-   <style:text-properties fo:color="#0000cc" style:font-name="Barlow1" fo:font-family="Barlow" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-weight="bold"/>
+   <style:text-properties fo:color="#0000cc" style:font-name="Barlow" fo:font-family="Barlow" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="16pt" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="Calc_20_Heading_20_3_20__28_Subsection_29_" style:display-name="Calc Heading 3 (Subsection)" style:family="table-cell" style:parent-style-name="Calc_20_Heading_20_Styles"/>
   <style:style style:name="Calc_20_Heading_20_4_20_Styles" style:display-name="Calc Heading 4 Styles" style:family="table-cell" style:parent-style-name="Calc_20_Heading_20_Styles">
@@ -1976,11 +1976,11 @@
   </style:style>
   <style:style style:name="PrintSheet_20_Text_20__28_Wrap_2c__20_Small_29_" style:display-name="PrintSheet Text (Wrap, Small)" style:family="table-cell" style:parent-style-name="PrintSheet_20_Text_20__28_Wrap_29_">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none"/>
-   <style:text-properties style:font-name="Barlow Semi Condensed" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt"/>
+   <style:text-properties style:font-name="Barlow Semi Condensed1" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt"/>
   </style:style>
   <style:style style:name="PrintSheet_20_Text_20__28_Small_29_" style:display-name="PrintSheet Text (Small)" style:family="table-cell" style:parent-style-name="PrintSheet_20_Text">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none"/>
-   <style:text-properties style:font-name="Barlow Semi Condensed" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt"/>
+   <style:text-properties style:font-name="Barlow Semi Condensed1" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt"/>
   </style:style>
   <style:style style:name="Calc_20_Heading_20_4_20__28_Column_2c__20_Center_29_" style:display-name="Calc Heading 4 (Column, Center)" style:family="table-cell" style:parent-style-name="Calc_20_Heading_20_4_20__28_Column_29_">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
@@ -2085,10 +2085,10 @@
    <style:table-cell-properties fo:wrap-option="wrap"/>
   </style:style>
   <style:style style:name="PrintSheet_20_Text_20__28_Smaller_29_" style:display-name="PrintSheet Text (Smaller)" style:family="table-cell" style:parent-style-name="PrintSheet_20_Text">
-   <style:text-properties style:font-name="Barlow Semi Condensed" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="7.5pt"/>
+   <style:text-properties style:font-name="Barlow Semi Condensed1" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="7.5pt"/>
   </style:style>
   <style:style style:name="PrintSheet_20_Text_20__28_Wrap_2c__20_Smaller_29_" style:display-name="PrintSheet Text (Wrap, Smaller)" style:family="table-cell" style:parent-style-name="PrintSheet_20_Text_20__28_Wrap_29_">
-   <style:text-properties style:font-name="Barlow Semi Condensed" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="7.5pt"/>
+   <style:text-properties style:font-name="Barlow Semi Condensed1" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="7.5pt"/>
   </style:style>
   <style:style style:name="PrintSheet_20_Text_20__28_Smaller_2c__20_Right_29_" style:display-name="PrintSheet Text (Smaller, Right)" style:family="table-cell" style:parent-style-name="PrintSheet_20_Text_20__28_Smaller_29_">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
@@ -2157,7 +2157,7 @@
   </style:style>
   <style:style style:name="PrintSheet_20_Power_20__28_Label_29_" style:display-name="PrintSheet Power (Label)" style:family="table-cell" style:parent-style-name="PrintSheet_20_Styles">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:padding-bottom="0.0417in" fo:padding-left="0.028in" fo:padding-right="0.028in" fo:padding-top="0in"/>
-   <style:text-properties style:font-name="Barlow Semi Condensed1" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="12pt" fo:font-weight="bold"/>
+   <style:text-properties style:font-name="Barlow Semi Condensed" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="12pt" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="PrintSheet_20_Heading_20_2" style:display-name="PrintSheet Heading 2" style:family="table-cell" style:parent-style-name="PrintSheet_20_Heading_20_Styles">
    <style:table-cell-properties style:diagonal-bl-tr="none" style:diagonal-tl-br="none"/>
@@ -2184,7 +2184,7 @@
    <style:text-properties style:font-name="Barlow ExtraBold" fo:font-family="&apos;Barlow ExtraBold&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="36pt" fo:font-weight="800"/>
   </style:style>
   <style:style style:name="PrintSheet_20_Rolling_20__28_Modifiers_29_" style:display-name="PrintSheet Rolling (Modifiers)" style:family="table-cell" style:parent-style-name="PrintSheet_20_Rolling_20__28_Label_29_">
-   <style:text-properties style:font-name="Barlow Semi Condensed1" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Bold" style:font-pitch="variable"/>
+   <style:text-properties style:font-name="Barlow Semi Condensed" fo:font-family="&apos;Barlow Semi Condensed&apos;" style:font-style-name="Bold" style:font-pitch="variable"/>
   </style:style>
   <style:style style:name="PrintSheet_20_Heading_20_3_20__28_Wrap_29_" style:display-name="PrintSheet Heading 3 (Wrap)" style:family="table-cell" style:parent-style-name="PrintSheet_20_Heading_20_3">
    <style:table-cell-properties fo:wrap-option="wrap"/>
@@ -2202,118 +2202,118 @@
   <draw:marker draw:name="Arrowheads_20_1" draw:display-name="Arrowheads 1" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1in"/>
-  </style:style>
-  <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.2in"/>
-  </style:style>
-  <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.8902in"/>
+  <style:style style:name="co22" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.1in"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
   </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1in"/>
+  </style:style>
   <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2in"/>
   </style:style>
   <style:style style:name="co6" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="5in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8902in"/>
   </style:style>
   <style:style style:name="co7" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.2in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2in"/>
   </style:style>
   <style:style style:name="co8" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.6in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="5in"/>
   </style:style>
   <style:style style:name="co9" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.75in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.2in"/>
   </style:style>
   <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.7472in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.6in"/>
   </style:style>
   <style:style style:name="co11" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.5854in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.75in"/>
   </style:style>
   <style:style style:name="co12" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.4799in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.7472in"/>
   </style:style>
   <style:style style:name="co13" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.7402in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.5854in"/>
   </style:style>
   <style:style style:name="co14" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.1126in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.4799in"/>
   </style:style>
   <style:style style:name="co15" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.8925in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.7402in"/>
   </style:style>
   <style:style style:name="co16" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.5in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.1126in"/>
   </style:style>
   <style:style style:name="co17" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.25in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8925in"/>
   </style:style>
   <style:style style:name="co18" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.25in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.5in"/>
   </style:style>
   <style:style style:name="co19" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="6in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.25in"/>
   </style:style>
   <style:style style:name="co20" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.5in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.25in"/>
   </style:style>
   <style:style style:name="co21" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.9965in"/>
-  </style:style>
-  <style:style style:name="co22" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.1in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="6in"/>
   </style:style>
   <style:style style:name="co23" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.5in"/>
   </style:style>
   <style:style style:name="co24" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.0008in"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.9965in"/>
   </style:style>
   <style:style style:name="co25" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="4in"/>
+  </style:style>
+  <style:style style:name="co26" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.0008in"/>
+  </style:style>
+  <style:style style:name="co27" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.4984in"/>
-  </style:style>
-  <style:style style:name="ro1" style:family="table-row">
-   <style:table-row-properties style:row-height="1in" fo:break-before="auto" style:use-optimal-row-height="false"/>
-  </style:style>
-  <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="0.3339in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2689in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2035in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro5" style:family="table-row">
-   <style:table-row-properties style:row-height="0.3016in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro6" style:family="table-row">
-   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro7" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2917in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro8" style:family="table-row">
-   <style:table-row-properties style:row-height="1in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro9" style:family="table-row">
-   <style:table-row-properties style:row-height="0.75in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro10" style:family="table-row">
    <style:table-row-properties style:row-height="0.0701in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
+  <style:style style:name="ro4" style:family="table-row">
+   <style:table-row-properties style:row-height="0.2035in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro2" style:family="table-row">
+   <style:table-row-properties style:row-height="0.3339in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro5" style:family="table-row">
+   <style:table-row-properties style:row-height="0.3016in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro3" style:family="table-row">
+   <style:table-row-properties style:row-height="0.2689in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
   <style:style style:name="ro11" style:family="table-row">
    <style:table-row-properties style:row-height="0.2701in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
+  <style:style style:name="ro8" style:family="table-row">
+   <style:table-row-properties style:row-height="1in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro9" style:family="table-row">
+   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
   <style:style style:name="ro12" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2902in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="0.2917in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro13" style:family="table-row">
+   <style:table-row-properties style:row-height="1in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro14" style:family="table-row">
+   <style:table-row-properties style:row-height="0.75in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro15" style:family="table-row">
+   <style:table-row-properties style:row-height="0.2902in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+  </style:style>
+  <style:style style:name="ro16" style:family="table-row">
    <style:table-row-properties style:row-height="0.528in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
@@ -2411,7 +2411,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2023-05-30">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="18:05:46.499000000">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2023-05-30">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="22:17:43.782000000">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -2499,10 +2499,10 @@
    </table:content-validations>
    <table:table table:name="ReadMe" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro1">
+    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro8">
      <table:table-cell>
       <draw:frame draw:z-index="0" draw:name="Image 1" draw:style-name="gr1" draw:text-style-name="P1" svg:width="2.7461in" svg:height="0.9996in" svg:x="0in" svg:y="0in">
        <draw:image draw:mime-type="image/png">
@@ -5436,10 +5436,10 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Background" table:style-name="ta1">
-    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="16362" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="16362" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Background</text:p>
@@ -5772,12 +5772,13 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Skills" table:style-name="ta1">
-    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
@@ -5794,7 +5795,7 @@
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="8"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Cost</text:p>
      </table:table-cell>
@@ -6211,7 +6212,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
-    <table:table-row table:style-name="ro8">
+    <table:table-row table:style-name="ro13">
      <table:table-cell table:style-name="Calc_20_Text_20__28_Display_2c__20_Wrap_29_" table:formula="of:=SUMMARY_MOVEMENT" office:value-type="string" office:string-value="" calcext:value-type="error" table:number-columns-spanned="4" table:number-rows-spanned="1">
       <text:p>#NAME?</text:p>
      </table:table-cell>
@@ -6244,19 +6245,20 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Gifts" table:style-name="ta1">
-    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co15" table:number-columns-repeated="48" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co17" table:number-columns-repeated="48" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Gifts</text:p>
@@ -6567,23 +6569,24 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Powers" table:style-name="ta1">
-    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co16" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co18" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Powers</text:p>
@@ -6596,7 +6599,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="17"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro14">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Calc_20_Text_20__28_Display_2c__20_Warning_2c__20_Wrap_29_" table:formula="of:=IF(POWER_WARNING=&quot;&quot;;&quot;&quot;;POWER_WARNING)" table:number-columns-spanned="4" table:number-rows-spanned="1">
       <text:p/>
@@ -6620,7 +6623,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Cost</text:p>
      </table:table-cell>
@@ -7165,7 +7168,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="17"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro14">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Calc_20_Text_20__28_Display_2c__20_Warning_2c__20_Wrap_29_" table:formula="of:=IF(ULTRA_WARNING=&quot;&quot;;&quot;&quot;;ULTRA_WARNING)" table:number-columns-spanned="4" table:number-rows-spanned="1">
       <text:p/>
@@ -7173,7 +7176,7 @@
      <table:covered-table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:number-columns-repeated="12"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Power</text:p>
@@ -7234,7 +7237,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="17"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Power</text:p>
      </table:table-cell>
@@ -7293,13 +7296,13 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Equipment" table:style-name="ta1">
-    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co23" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Equipment</text:p>
@@ -7343,7 +7346,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="9"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Custom Name</text:p>
@@ -7367,7 +7370,7 @@
     <table:table-row table:style-name="ro4" table:number-rows-repeated="3">
      <table:table-cell table:number-columns-repeated="11"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_3_20__28_Subsection_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Armor Options</text:p>
      </table:table-cell>
@@ -7419,7 +7422,7 @@
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="11"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_3_20__28_Subsection_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Shield Options</text:p>
      </table:table-cell>
@@ -7640,6 +7643,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="PrintSheet1" table:style-name="ta1" table:print-ranges="PrintSheet1.A1:PrintSheet1.CB151 PrintSheet1.A152:PrintSheet1.CB309">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co22" table:number-columns-repeated="80" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro10">
      <table:table-cell table:style-name="PrintSheet_20_Charater_20_Name" table:formula="of:=IF(NAME=&quot;&quot;;&quot;&quot;;NAME)" office:value-type="string" office:string-value="The Shadow" calcext:value-type="string" table:number-columns-spanned="58" table:number-rows-spanned="6">
@@ -9313,8 +9317,8 @@
       <text:p>vs</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="PrintSheet_20_Rolling_20__28_Dice_29_" office:value-type="float" office:value="7" calcext:value-type="float" table:number-columns-spanned="14" table:number-rows-spanned="8">
-      <text:p>7</text:p>
+     <table:table-cell table:style-name="PrintSheet_20_Rolling_20__28_Dice_29_" office:value-type="float" office:value="3" calcext:value-type="float" table:number-columns-spanned="14" table:number-rows-spanned="8">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="13"/>
      <table:table-cell table:number-columns-repeated="3"/>
@@ -10509,7 +10513,7 @@
      <table:covered-table-cell table:number-columns-repeated="40"/>
      <table:table-cell/>
      <table:table-cell table:style-name="PrintSheet_20_Text_20__28_Wrap_2c__20_Small_29_" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="38" table:number-rows-spanned="8">
-      <text:p>To &quot;break out&quot; of an attack with an ongoing effect, the target must use a standard action to attempt an Athletics roll against 7 + Power Level or 7 + Equipment Level of the attacker.</text:p>
+      <text:p>To &quot;break out&quot; of an attack with an ongoing effect, the target must use a standard action to attempt an Athletics roll against 3 + Power Level or 3 + Equipment Level of the attacker.</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="37"/>
      <table:table-cell/>
@@ -10570,6 +10574,7 @@
     </calcext:conditional-formats>
    </table:table>
    <table:table table:name="PrintSheet1_2" table:style-name="ta1" table:print-ranges="PrintSheet1_2.A1:PrintSheet1_2.CB151 PrintSheet1_2.A152:PrintSheet1_2.CB309">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co22" table:number-columns-repeated="80" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro10">
      <table:table-cell table:style-name="PrintSheet_20_Charater_20_Name" table:formula="of:=IF(NAME=&quot;&quot;;&quot;&quot;;NAME)" office:value-type="string" office:string-value="The Shadow" calcext:value-type="string" table:number-columns-spanned="58" table:number-rows-spanned="6">
@@ -12026,8 +12031,8 @@
       <text:p>vs</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="PrintSheet_20_Rolling_20__28_Dice_29_" office:value-type="float" office:value="8" calcext:value-type="float" table:number-columns-spanned="14" table:number-rows-spanned="8">
-      <text:p>8</text:p>
+     <table:table-cell table:style-name="PrintSheet_20_Rolling_20__28_Dice_29_" office:value-type="float" office:value="3" calcext:value-type="float" table:number-columns-spanned="14" table:number-rows-spanned="8">
+      <text:p>3</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="13"/>
      <table:table-cell table:number-columns-repeated="3"/>
@@ -13222,7 +13227,7 @@
      <table:covered-table-cell table:number-columns-repeated="40"/>
      <table:table-cell/>
      <table:table-cell table:style-name="PrintSheet_20_Text_20__28_Wrap_2c__20_Small_29_" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="38" table:number-rows-spanned="8">
-      <text:p>To &quot;break out&quot; of an alteration attack with an ongoing effect, the target must use a standard action to attempt an Athletics roll against 8 + Power Level or 8 + Equipment Level of the attacker.</text:p>
+      <text:p>To &quot;break out&quot; of an alteration attack with an ongoing effect, the target must use a standard action to attempt an Athletics roll against 3 + Power Level or 3 + Equipment Level of the attacker.</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="37"/>
      <table:table-cell/>
@@ -17152,8 +17157,9 @@
     </table:table-row>
    </table:table>
    <table:table table:name="TextSheetCalc" table:style-name="ta1">
-    <table:table-column table:style-name="co23" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="16382" table:default-cell-style-name="Default"/>
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co25" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="16382" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Text Character Sheet</text:p>
@@ -18213,8 +18219,8 @@
     </table:table-row>
    </table:table>
    <table:table table:name="WikiSheetCalc" table:style-name="ta1">
-    <table:table-column table:style-name="co23" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="16381" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co25" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:number-columns-repeated="16381" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Wiki Character Sheet</text:p>
@@ -19970,7 +19976,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Calc" table:style-name="ta1">
-    <table:table-column table:style-name="co5" table:number-columns-repeated="93" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:number-columns-repeated="93" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Calculations</text:p>
@@ -20028,7 +20034,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Row_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Lifting Capacity</text:p>
      </table:table-cell>
@@ -20041,7 +20047,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="88"/>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Row_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Benchmarks</text:p>
      </table:table-cell>
@@ -20102,7 +20108,7 @@
     <table:table-row table:style-name="ro4" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="93"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Has Resistance</text:p>
@@ -20154,14 +20160,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Concat</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="89"/>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Benchmarks</text:p>
      </table:table-cell>
@@ -20233,7 +20239,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Has Power</text:p>
@@ -20258,7 +20264,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="85"/>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Row_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Run</text:p>
      </table:table-cell>
@@ -20420,7 +20426,7 @@
      <table:table-cell table:style-name="Calc_20_Heading_20_3_20__28_Subsection_29_" table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="90"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Selected</text:p>
@@ -20472,7 +20478,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="88"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Description</text:p>
@@ -20524,7 +20530,7 @@
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="93"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_3_20__28_Subsection_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Description</text:p>
      </table:table-cell>
@@ -20570,7 +20576,7 @@
      <table:table-cell table:style-name="Calc_20_Heading_20_3_20__28_Subsection_29_"/>
      <table:table-cell table:number-columns-repeated="91"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Selected</text:p>
@@ -20657,7 +20663,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="88"/>
     </table:table-row>
-    <table:table-row table:style-name="ro13">
+    <table:table-row table:style-name="ro16">
      <table:table-cell table:number-columns-repeated="4"/>
      <table:table-cell table:style-name="Calc_20_Text_20__28_Alt_29_" table:formula="of:=COM.MICROSOFT.TEXTJOIN(CHAR(13)&amp;CHAR(10); TRUE(); [.E57:.E58]; [.E60:.E61])" office:value-type="string" office:string-value="Justice: The character seeks to ensure that misdeeds are met with appropriate punishment.&#x0d;&#x0a;Adventure: The character has an adventurous spirit and rarely turns down a quest." calcext:value-type="string"><text:p>Justice: The character seeks to ensure that misdeeds are met with appropriate punishment.&#x0d;</text:p><text:p>Adventure: The character has an adventurous spirit and rarely turns down a quest.</text:p>
      </table:table-cell>
@@ -20735,7 +20741,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -20783,7 +20789,7 @@
       <text:p>2,000</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.H78]; VLOOKUP([Equipment.B8]; ARMOR_CHART; 7; FALSE()); &quot;&quot;)" office:value-type="float" office:value="0" calcext:value-type="float">
-      <text:p/>
+      <text:p>0</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce1" table:formula="of:=IF([Equipment.B8]=&quot;&quot;; FALSE(); TRUE())" office:value-type="boolean" office:boolean-value="true" calcext:value-type="boolean">
       <text:p>TRUE</text:p>
@@ -20796,7 +20802,7 @@
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="93"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Armor Options</text:p>
      </table:table-cell>
@@ -21013,7 +21019,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -21074,7 +21080,7 @@
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="93"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Shield Options</text:p>
      </table:table-cell>
@@ -21289,7 +21295,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -21416,7 +21422,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -21530,7 +21536,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="84"/>
     </table:table-row>
-    <table:table-row table:style-name="ro13">
+    <table:table-row table:style-name="ro16">
      <table:table-cell table:number-columns-repeated="7"/>
      <table:table-cell table:style-name="ce20" table:formula="of:=OR([.H119:.H121])" office:value-type="boolean" office:boolean-value="true" calcext:value-type="boolean">
       <text:p>TRUE</text:p>
@@ -21548,7 +21554,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -21687,7 +21693,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -21802,7 +21808,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -21957,7 +21963,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="84"/>
     </table:table-row>
-    <table:table-row table:style-name="ro8">
+    <table:table-row table:style-name="ro13">
      <table:table-cell table:number-columns-repeated="7"/>
      <table:table-cell table:style-name="ce20" table:formula="of:=OR([.H78]; [.H90]; [.H95]; [.H107]; [.H115]; [.H122]; [.H129]; [.H136]; [.H150])" office:value-type="boolean" office:boolean-value="true" calcext:value-type="boolean">
       <text:p>TRUE</text:p>
@@ -21988,7 +21994,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Row_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -22442,7 +22448,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display Name</text:p>
      </table:table-cell>
@@ -22723,7 +22729,7 @@
       <text:p>Reference Sheet</text:p>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C191]; IF([.CG191]; [.B191]; IF([Powers.E5]=&quot;&quot;; [.B191]; [Powers.E5])); &quot;&quot;)" office:value-type="string" office:string-value="Clinging" calcext:value-type="string">
       <text:p>Clinging</text:p>
      </table:table-cell>
@@ -23003,7 +23009,7 @@
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C191]; [.A191]&amp;CHAR(13)&amp;CHAR(10)&amp;[.AJ191]&amp;CHAR(13)&amp;CHAR(10)&amp;[.AI191]&amp;CHAR(13)&amp;CHAR(10)&amp;VLOOKUP( [.B191]; POWER_CHART; 11; FALSE())&amp;CHAR(13)&amp;CHAR(10)&amp;CHAR(13)&amp;CHAR(10); &quot;&quot;)" office:value-type="string" office:string-value="Clinging&#x0d;&#x0a;Free action&#x0d;&#x0a;Oriental mysticism&#x0d;&#x0a;10&#x0d;&#x0a;&#x0d;&#x0a;" calcext:value-type="string"><text:p>Clinging&#x0d;</text:p><text:p>Free action&#x0d;</text:p><text:p>Oriental mysticism&#x0d;</text:p><text:p>10&#x0d;</text:p><text:p>&#x0d;</text:p><text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C192]; IF([.CG192]; [.B192]; IF([Powers.E6]=&quot;&quot;; [.B192]; [Powers.E6])); &quot;&quot;)" office:value-type="string" office:string-value="Damage Resistance" calcext:value-type="string">
       <text:p>Damage Resistance</text:p>
      </table:table-cell>
@@ -23283,7 +23289,7 @@
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C192]; [.A192]&amp;CHAR(13)&amp;CHAR(10)&amp;[.AJ192]&amp;CHAR(13)&amp;CHAR(10)&amp;[.AI192]&amp;CHAR(13)&amp;CHAR(10)&amp;VLOOKUP( [.B192]; POWER_CHART; 11; FALSE())&amp;CHAR(13)&amp;CHAR(10)&amp;CHAR(13)&amp;CHAR(10); &quot;&quot;)" office:value-type="string" office:string-value="Damage Resistance&#x0d;&#x0a;Constant&#x0d;&#x0a;Oriental mysticism; 7 Damage Resistance&#x0d;&#x0a;13&#x0d;&#x0a;&#x0d;&#x0a;" calcext:value-type="string"><text:p>Damage Resistance&#x0d;</text:p><text:p>Constant&#x0d;</text:p><text:p>Oriental mysticism; 7 Damage Resistance&#x0d;</text:p><text:p>13&#x0d;</text:p><text:p>&#x0d;</text:p><text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C193]; IF([.CG193]; [.B193]; IF([Powers.E7]=&quot;&quot;; [.B193]; [Powers.E7])); &quot;&quot;)" office:value-type="string" office:string-value="Invisibility" calcext:value-type="string">
       <text:p>Invisibility</text:p>
      </table:table-cell>
@@ -23563,7 +23569,7 @@
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C193]; [.A193]&amp;CHAR(13)&amp;CHAR(10)&amp;[.AJ193]&amp;CHAR(13)&amp;CHAR(10)&amp;[.AI193]&amp;CHAR(13)&amp;CHAR(10)&amp;VLOOKUP( [.B193]; POWER_CHART; 11; FALSE())&amp;CHAR(13)&amp;CHAR(10)&amp;CHAR(13)&amp;CHAR(10); &quot;&quot;)" office:value-type="string" office:string-value="Invisibility&#x0d;&#x0a;Quick action, Alteration power&#x0d;&#x0a;Oriental mysticism&#x0d;&#x0a;41&#x0d;&#x0a;&#x0d;&#x0a;" calcext:value-type="string"><text:p>Invisibility&#x0d;</text:p><text:p>Quick action, Alteration power&#x0d;</text:p><text:p>Oriental mysticism&#x0d;</text:p><text:p>41&#x0d;</text:p><text:p>&#x0d;</text:p><text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C194]; IF([.CG194]; [.B194]; IF([Powers.E8]=&quot;&quot;; [.B194]; [Powers.E8])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -23844,7 +23850,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C195]; IF([.CG195]; [.B195]; IF([Powers.E9]=&quot;&quot;; [.B195]; [Powers.E9])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -24125,7 +24131,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C196]; IF([.CG196]; [.B196]; IF([Powers.E10]=&quot;&quot;; [.B196]; [Powers.E10])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -24406,7 +24412,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C197]; IF([.CG197]; [.B197]; IF([Powers.E11]=&quot;&quot;; [.B197]; [Powers.E11])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -24687,7 +24693,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C198]; IF([.CG198]; [.B198]; IF([Powers.E12]=&quot;&quot;; [.B198]; [Powers.E12])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -24968,7 +24974,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C199]; IF([.CG199]; [.B199]; IF([Powers.E13]=&quot;&quot;; [.B199]; [Powers.E13])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -25249,7 +25255,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C200]; IF([.CG200]; [.B200]; IF([Powers.E14]=&quot;&quot;; [.B200]; [Powers.E14])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -25530,7 +25536,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C201]; IF([.CG201]; [.B201]; IF([Powers.E15]=&quot;&quot;; [.B201]; [Powers.E15])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -25811,7 +25817,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C202]; IF([.CG202]; [.B202]; IF([Powers.E16]=&quot;&quot;; [.B202]; [Powers.E16])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -26092,7 +26098,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C203]; IF([.CG203]; [.B203]; IF([Powers.E17]=&quot;&quot;; [.B203]; [Powers.E17])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -26373,7 +26379,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.C204]; IF([.CG204]; [.B204]; IF([Powers.E18]=&quot;&quot;; [.B204]; [Powers.E18])); &quot;&quot;)">
       <text:p/>
      </table:table-cell>
@@ -26654,7 +26660,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:number-columns-repeated="12"/>
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_2c__20_Right_29_" table:number-columns-repeated="4"/>
      <table:table-cell table:number-columns-repeated="12"/>
@@ -26834,7 +26840,7 @@
       <text:p/>
      </table:table-cell>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:number-columns-repeated="85"/>
      <table:table-cell table:style-name="Calc_20_Text_20__28_Alt_29_" table:formula="of:=COM.MICROSOFT.CONCAT([.AC205];[.CC206:.CH206])">
       <text:p/>
@@ -26852,7 +26858,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display Name</text:p>
      </table:table-cell>
@@ -29730,7 +29736,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="92"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display Name</text:p>
      </table:table-cell>
@@ -29862,7 +29868,7 @@
      <table:table-cell table:style-name="Calc_20_Heading_20_2_20__28_Section_29_"/>
      <table:table-cell table:number-columns-repeated="91"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Display</text:p>
      </table:table-cell>
@@ -30162,23 +30168,23 @@
       </form:properties>
      </form:form>
     </office:forms>
-    <table:table-column table:style-name="co16" table:number-columns-repeated="17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co15" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co15" table:number-columns-repeated="18" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co18" table:number-columns-repeated="17" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co17" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co15" table:number-columns-repeated="17" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co17" table:number-columns-repeated="18" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co26" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co17" table:number-columns-repeated="17" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co26" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="16" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co26" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co26" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="17" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co25" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co27" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro2">
      <table:table-cell table:style-name="Calc_20_Heading_20_1_20__28_Title_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Data</text:p>
@@ -30497,7 +30503,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Action Type</text:p>
      </table:table-cell>
@@ -30581,7 +30587,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Name</text:p>
      </table:table-cell>
@@ -30741,7 +30747,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_2c__20_Right_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -32050,7 +32056,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Name</text:p>
      </table:table-cell>
@@ -32138,7 +32144,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -32474,7 +32480,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -32783,7 +32789,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -32954,7 +32960,7 @@
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="117"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -33101,7 +33107,7 @@
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="117"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -33254,7 +33260,7 @@
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="117"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -33434,7 +33440,7 @@
      <table:table-cell table:style-name="Calc_20_Text_20__28_Display_2c__20_Link_29_" table:number-columns-repeated="4"/>
      <table:table-cell table:number-columns-repeated="112"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -33617,7 +33623,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -33767,7 +33773,7 @@
      <table:table-cell table:style-name="Calc_20_Text_20__28_Display_2c__20_Link_29_" table:number-columns-repeated="4"/>
      <table:table-cell table:number-columns-repeated="112"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -33854,7 +33860,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -34000,7 +34006,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -34376,7 +34382,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -34448,7 +34454,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="110"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.B281]=&quot;&quot;; &quot;&quot;; [.B281]&amp;&quot; (Level &quot;&amp;[.C281]&amp;&quot;, &quot;&amp;[.D281]&amp;&quot; Damage, &quot;&amp;[.E281]&amp;&quot; range)&quot;)" office:value-type="string" office:string-value="Stun Grenade (Level 3, 1d6+3 Damage, Medium range)" calcext:value-type="string">
       <text:p>Stun Grenade (Level 3, 1d6+3 Damage, Medium range)</text:p>
      </table:table-cell>
@@ -34471,7 +34477,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="110"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.B282]=&quot;&quot;; &quot;&quot;; [.B282]&amp;&quot; (Level &quot;&amp;[.C282]&amp;&quot;, &quot;&amp;[.D282]&amp;&quot; Damage, &quot;&amp;[.E282]&amp;&quot; range)&quot;)" office:value-type="string" office:string-value="Flashbang Grenade (Level 3, 1d6+3 Damage, Medium range)" calcext:value-type="string">
       <text:p>Flashbang Grenade (Level 3, 1d6+3 Damage, Medium range)</text:p>
      </table:table-cell>
@@ -34542,7 +34548,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="110"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.B285]=&quot;&quot;; &quot;&quot;; [.B285]&amp;&quot; (Level &quot;&amp;[.C285]&amp;&quot;, &quot;&amp;[.D285]&amp;&quot; Damage, &quot;&amp;[.E285]&amp;&quot; range)&quot;)" office:value-type="string" office:string-value="Gas Grenade (Level 4, 1d6+4 Damage, Medium range)" calcext:value-type="string">
       <text:p>Gas Grenade (Level 4, 1d6+4 Damage, Medium range)</text:p>
      </table:table-cell>
@@ -34565,7 +34571,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="110"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.B286]=&quot;&quot;; &quot;&quot;; [.B286]&amp;&quot; (Level &quot;&amp;[.C286]&amp;&quot;, &quot;&amp;[.D286]&amp;&quot; Damage, &quot;&amp;[.E286]&amp;&quot; range)&quot;)" office:value-type="string" office:string-value="Entangle/Riot Grenade (Level 4, 1d6+4 Damage, Medium range)" calcext:value-type="string">
       <text:p>Entangle/Riot Grenade (Level 4, 1d6+4 Damage, Medium range)</text:p>
      </table:table-cell>
@@ -34612,7 +34618,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="110"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.B288]=&quot;&quot;; &quot;&quot;; [.B288]&amp;&quot; (Level &quot;&amp;[.C288]&amp;&quot;, &quot;&amp;[.D288]&amp;&quot; Damage, &quot;&amp;[.E288]&amp;&quot; range)&quot;)" office:value-type="string" office:string-value="Anti-personnel Incendiary Grenade (Level 5, 1d6+5 Damage, Medium range)" calcext:value-type="string">
       <text:p>Anti-personnel Incendiary Grenade (Level 5, 1d6+5 Damage, Medium range)</text:p>
      </table:table-cell>
@@ -34635,7 +34641,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="110"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Text" table:formula="of:=IF([.B289]=&quot;&quot;; &quot;&quot;; [.B289]&amp;&quot; (Level &quot;&amp;[.C289]&amp;&quot;, &quot;&amp;[.D289]&amp;&quot; Damage, &quot;&amp;[.E289]&amp;&quot; range)&quot;)" office:value-type="string" office:string-value="Anti-materiel Incendiary Grenade (Level 5, 1d6+5 Damage, Medium range)" calcext:value-type="string">
       <text:p>Anti-materiel Incendiary Grenade (Level 5, 1d6+5 Damage, Medium range)</text:p>
      </table:table-cell>
@@ -34679,7 +34685,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Select Name</text:p>
      </table:table-cell>
@@ -34905,7 +34911,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Gift</text:p>
      </table:table-cell>
@@ -35217,7 +35223,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="114"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Text_20__28_Static_20_Text_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Wealthy</text:p>
      </table:table-cell>
@@ -35262,7 +35268,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -35724,7 +35730,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -36610,7 +36616,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Name</text:p>
      </table:table-cell>
@@ -36725,7 +36731,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Name</text:p>
      </table:table-cell>
@@ -36818,7 +36824,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Power Level</text:p>
      </table:table-cell>
@@ -37512,7 +37518,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Name</text:p>
      </table:table-cell>
@@ -39533,7 +39539,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -39954,7 +39960,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -40122,7 +40128,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_2c__20_Right_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -40251,7 +40257,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="116"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:style-name="Calc_20_Heading_20_4_20__28_Column_29_" office:value-type="string" calcext:value-type="string">
       <text:p>Level</text:p>
      </table:table-cell>
@@ -40372,7 +40378,7 @@
      <table:table-cell table:number-columns-repeated="117"/>
     </table:table-row>
    </table:table>
-   <table:table table:name="&apos;file:///D:/Documents/GitData/github.com/bblackmoor/kalos/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Benchmarks.fods&apos;#Official" table:print="false" table:style-name="ta_extref">
+   <table:table table:name="&apos;file:///D:/Documents/GitData/github.com/bblackmoor/kalos/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Benchmarks.fods&apos;#Official" table:print="false" table:style-name="ta_extref">
     <table:table-source xlink:type="simple" xlink:href="Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Character-Helper.fods/Kalos-Mechanism-Benchmarks.fods" table:table-name="Official" table:mode="copy-results-only"/>
     <table:table-column table:number-columns-repeated="6"/>
     <table:table-row table:number-rows-repeated="103">
